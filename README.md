@@ -1,4 +1,4 @@
-### Olá! Eu sou o Arthur Passarelli 😁
+### Bem vindo! Me chamo Arthur Dantas Passarelli
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)](https://www.linkedin.com/in/arthurpassarelli)
 
